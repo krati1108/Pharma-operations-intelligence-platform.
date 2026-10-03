@@ -1,6 +1,6 @@
 # Pharma Operations Intelligence Platform
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharma-operations-intelligence.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pharma-operations-intelligence-platform-2bavmeebohts66zwluxyvx.streamlit.app/)
 [![Automated Tests](https://github.com/krati1108/Pharma-operations-intelligence-platform./actions/workflows/tests.yml/badge.svg)](https://github.com/krati1108/Pharma-operations-intelligence-platform./actions/workflows/tests.yml)
 
 An end-to-end pharmaceutical supply-chain analytics project that converts synthetic
@@ -12,7 +12,7 @@ analytical SQL, tested business logic, and a six-page Streamlit dashboard.
 ## Live dashboard
 
 Launch the hosted application: **[Pharma Operations Intelligence Platform on
-Streamlit](https://pharma-operations-intelligence.streamlit.app/)**
+Streamlit](https://pharma-operations-intelligence-platform-2bavmeebohts66zwluxyvx.streamlit.app/)**
 
 > **Data disclaimer:** Every company, product, batch, order, quantity, price, and
 > performance result in this project is fictional and generated for portfolio use.

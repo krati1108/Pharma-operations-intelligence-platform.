@@ -1,0 +1,25 @@
+product_id,product_name,therapeutic_area,dosage_form,strength,primary_supplier_id,unit_cost,unit_price,lead_time_days
+P001,Cardiostat 10 mg,Cardiology,Tablet,10 mg,SUP-001,3.1,12.5,28
+P002,Cardiostat 20 mg,Cardiology,Tablet,20 mg,SUP-001,4.0,15.75,28
+P003,ThromboClear 75 mg,Cardiology,Tablet,75 mg,SUP-002,6.8,24.0,35
+P004,GlucoBalance 500 mg,Endocrinology,Tablet,500 mg,SUP-003,1.85,8.5,42
+P005,GlucoBalance XR,Endocrinology,Tablet,750 mg,SUP-003,2.7,11.25,42
+P006,InsuSure Basal,Endocrinology,Injection,100 U/mL,SUP-004,31.5,68.0,49
+P007,RespiraFlow,Respiratory,Inhaler,90 mcg,SUP-005,12.4,38.0,32
+P008,AirGuard Duo,Respiratory,Inhaler,250/50 mcg,SUP-005,18.9,56.0,32
+P009,Cefraxin 500 mg,Anti-infective,Capsule,500 mg,SUP-006,4.6,17.5,45
+P010,Azimune 250 mg,Anti-infective,Tablet,250 mg,SUP-006,3.9,15.0,45
+P011,VancoSafe IV,Anti-infective,Injection,1 g,SUP-007,17.5,49.0,30
+P012,NeuroCalm 50 mg,Neurology,Capsule,50 mg,SUP-002,5.2,21.0,35
+P013,MigraLess ODT,Neurology,ODT,10 mg,SUP-008,7.1,27.5,38
+P014,OncoRelief,Oncology,Tablet,100 mg,SUP-004,82.0,185.0,49
+P015,Immunexa,Oncology,Injection,40 mg/0.8 mL,SUP-004,128.0,295.0,49
+P016,ArthriEase 200 mg,Pain Management,Tablet,200 mg,SUP-003,2.3,10.5,42
+P017,PainFree ER,Pain Management,Tablet,650 mg,SUP-008,3.15,13.0,38
+P018,Dermaclear Cream,Dermatology,Cream,1%,SUP-005,5.8,19.5,32
+P019,RenalPro 800 mg,Nephrology,Tablet,800 mg,SUP-001,8.7,29.0,28
+P020,GastroShield 40 mg,Gastroenterology,Capsule,40 mg,SUP-003,2.1,9.75,42
+P021,HematoPlus,Hematology,Injection,200 mg/mL,SUP-007,24.0,61.0,30
+P022,Allerban 10 mg,Allergy,Tablet,10 mg,SUP-008,1.2,7.25,38
+P023,PediaLyte Rx,Pediatrics,Solution,250 mL,SUP-006,3.6,14.0,45
+P024,OsteoBuild D3,Bone Health,Capsule,2000 IU,SUP-002,2.8,12.0,35

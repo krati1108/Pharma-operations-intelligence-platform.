@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,region
+WH-NE,Northeast Distribution Center,Allentown,Northeast
+WH-SE,Southeast Distribution Center,Atlanta,Southeast
+WH-MW,Midwest Distribution Center,Indianapolis,Midwest
+WH-W,West Distribution Center,Reno,West

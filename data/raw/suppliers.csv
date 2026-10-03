@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,contracted_lead_time_days
+SUP-001,Apex Active Ingredients,United States,28
+SUP-002,Helix Pharma Materials,Germany,35
+SUP-003,NovaMed Generics,India,42
+SUP-004,Sterling Biologics,Switzerland,49
+SUP-005,VitaCore Laboratories,Ireland,32
+SUP-006,Pacific Therapeutics,Singapore,45
+SUP-007,NorthStar Injectables,Canada,30
+SUP-008,Orion Healthcare Supply,United Kingdom,38
